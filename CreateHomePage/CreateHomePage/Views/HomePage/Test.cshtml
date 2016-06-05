@@ -1,0 +1,39 @@
+﻿@model IEnumerable<CreateHomePage.Models.Player>
+@{
+    ViewBag.Title = "Test";
+}
+
+<h2>Students</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th></th>
+        <th>Last Name</th>
+        <th>First Name</th>
+        <th>Enrollment Date</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Name }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Rating }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.CountToutnament })
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rating)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CountToutnament)
+            </td>
+        </tr>
+    }
+
+</table>

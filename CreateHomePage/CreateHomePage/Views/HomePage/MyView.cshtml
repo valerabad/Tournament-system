@@ -1,0 +1,37 @@
+﻿
+@model IEnumerable<CreateHomePage.Models.Player>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>MyView</title>
+</head>
+<body>
+    <div>
+        <p4> Список игроков<p4>
+        @*@using (Html.BeginForm("MyView", "HomePage"))
+        {
+            foreach (CreateHomePage.Models.Player pl in Model)
+                {
+                @Html.TextBox(@pl.Name)
+                @Html.TextBox(@pl.Rating.ToString())
+               
+            }
+
+        }*@
+       @foreach (CreateHomePage.Models.Player pl in Model)
+       {
+        <div>Имя игрока: @pl.Name, рейтинг: @pl.Rating</div>
+       }
+       
+            
+            
+            
+    </div>
+</body>
+</html>

@@ -1,0 +1,71 @@
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\CreateHomePage.dll
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\CreateHomePage.pdb
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\Newtonsoft.Json.dll
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\System.Web.Helpers.dll
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\System.Web.Mvc.dll
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\System.Web.Razor.dll
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\System.Web.WebPages.Deployment.dll
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\System.Web.WebPages.dll
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\System.Web.WebPages.Razor.dll
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\Newtonsoft.Json.xml
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\System.Web.Helpers.xml
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\System.Web.Mvc.xml
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\System.Web.Razor.xml
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\System.Web.WebPages.xml
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\System.Web.WebPages.Deployment.xml
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\System.Web.WebPages.Razor.xml
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\ru\System.Web.Helpers.resources.dll
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\ru\System.Web.Mvc.resources.dll
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\ru\System.Web.Razor.resources.dll
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\ru\System.Web.WebPages.resources.dll
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\obj\Debug\CreateHomePage.dll
+c:\users\hp\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\obj\Debug\CreateHomePage.pdb
+C:\Users\HP\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\EntityFramework.dll
+C:\Users\HP\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\EntityFramework.xml
+C:\Users\HP\documents\visual studio 2012\Projects\CreateHomePage\CreateHomePage\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\CreateHomePage.dll.config
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\CreateHomePage.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\CreateHomePage.pdb
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\EntityFramework.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\System.Web.Http.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\EntityFramework.xml
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\System.Web.Http.xml
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\ru\System.Web.Http.resources.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\ru\System.Web.Razor.resources.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\obj\Debug\CreateHomePage.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\obj\Debug\CreateHomePage.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\obj\Debug\CreateHomePage.pdb
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\System.Data.SqlServerCe.dll
+C:\Users\User\Desktop\Projects2\CreateHomePage\CreateHomePage\bin\RU\System.Data.SqlServerCe.resources.dll

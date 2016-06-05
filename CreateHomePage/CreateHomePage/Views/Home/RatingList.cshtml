@@ -1,0 +1,83 @@
+﻿
+@model IEnumerable<CreateHomePage.Models.Player>
+@{
+    // по умолчанию используется макет _Layout
+    // строка названия страницы в браузере
+    ViewBag.Title = "Национальный рейтинг";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Rating list</title>
+</head>
+<body>
+    <div>
+        <p4>текст<p4>
+                @*@using (Html.BeginForm("MyView", "HomePage"))
+                    {
+                        foreach (CreateHomePage.Models.Player pl in Model)
+                            {
+                            @Html.TextBox(@pl.Name)
+                            @Html.TextBox(@pl.Rating.ToString())
+
+                        }
+
+                    }*@
+                @*@foreach (CreateHomePage.Models.Player pl in Model)
+                {
+                    <div>Имя игрока: @pl.Name, рейтинг: @pl.Rating</div>
+                }*@
+    
+     </div>
+
+    <h2>Рейтинговая таблица</h2>
+   @using (Html.BeginForm())
+   {
+    <p>        <input type="submit" value="Создать таблицу" />    </p>
+   }
+    <p>        @Html.ActionLink("Create New", "Create")           </p>   
+    
+    <table>
+        <tr>
+            <th></th>
+            <th>№</th>            
+            <th>Имя</th>
+            <th>Кол-во очков</th>
+            <th>Кол-во турниров</th>
+        </tr>
+@using (Html.BeginForm("RatingList", "HomePage"))
+{   
+    int i = 0;
+    foreach (var item in Model)
+    {
+            <tr>
+                <td>                    
+                        @Html.Label(Convert.ToString(++i))
+                </td>
+                <td>              @*здесь получаем ссылку для редактирования*@      
+                    @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Rating)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CountToutnament)
+                </td>
+            </tr>
+        }
+}
+    </table>
+</body>
+
+<div>
+    @Html.ActionLink("Draws", "Draw1")
+</div>
+</html>

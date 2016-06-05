@@ -1,0 +1,41 @@
+﻿@* модель.  *@
+@model CreateHomePage.Models.Player
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        
+        @* using для блока, вызыва IDisposible, создаёт форму внутри скобок *@
+        @* метод (Html.BeginForm("Index", "HomePage")принимает 1 аргумент - action(м-д), 2 - контроллер  *@
+        @using (Html.BeginForm("Index", "HomePage"))
+        {
+            @* перево   дится в html теги *@
+            @Html.TextBoxFor(x => x.Name)
+            
+            @Html.TextBoxFor(x => x.CountToutnament)
+            @Html.TextBox("Rating")
+            
+            @Html.Label("cfdfs")
+
+            @Html.TextBoxFor(x => x.Name)
+            
+            @Html.TextBoxFor(x => x.CountToutnament)
+            @Html.TextBox("Rating")
+
+            <input type="submit" value="Вычислить рейтинг" />
+            
+        }
+    </div>
+    <p>@ViewBag.Result</p> 
+</body>
+</html>

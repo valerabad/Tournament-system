@@ -1,0 +1,55 @@
+﻿@model CreateHomePage.Models.Player
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<fieldset>
+    <legend>Player</legend>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Name)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Name)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Rating)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Rating)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.CountToutnament)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.CountToutnament)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Action)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Action)
+    </div>
+
+    @*<p>
+        <input type="submit" value="Delete" />
+    </p>*@
+</fieldset>
+@using (Html.BeginForm())
+{
+    @*@Html.AntiForgeryToken()*@
+    <p>
+        <input type="submit" value="Delete" /> |        
+    </p>
+}
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "RatingList")
+</p>
